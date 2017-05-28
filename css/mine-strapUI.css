@@ -52,7 +52,7 @@
 }
 
 .slide-template {
-  background-image: url("SoMuchNetflix.png");
+  background-image: url("../SoMuchNetflix.png");
   background-position: 0px -163px;
   background-size: cover;
 }
